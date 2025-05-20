@@ -41,5 +41,5 @@ Este proyecto es una aplicación de autenticación con Google utilizando Next.js
 4. Para cerrar sesión, haz clic en "Cerrar Sesión".
 
 ## Autor
-Joshua Emil Peña Rosario - Software Developer
+Joshua Emil Peña Rosario
 
